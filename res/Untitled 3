@@ -1,0 +1,9 @@
+Cores do mapa
+
+Azul claro = Player = 00FFF2
+Amarelo = Munição = FFF602
+Verde = arma = 00FF00
+Rosa = vida = FF60D2
+Vermelho = inimigo = FF0000
+preto = chão = 000000
+branco = parede = FFFFFF
